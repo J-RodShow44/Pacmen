@@ -10,4 +10,4 @@ Future Improvements:
   c) Add arrow controls to the images
   d) etc.
 
-License: Rhis project uses the MIT open source license. See LICENSE file.
+License: This project uses the MIT open source license. See LICENSE file.
